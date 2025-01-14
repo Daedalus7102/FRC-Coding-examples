@@ -6,3 +6,7 @@ Links to install libraries online:
     
 -  RevLib (Rev webSite --> https://docs.revrobotics.com/brushless/revlib/revlib-overview):
     -  RevLib --> https://software-metadata.revrobotics.com/REVLib-2024.json
+
+
+-  Pathplanner (Pathplanner webSite --> https://pathplanner.dev/pplib-getting-started.html#install-pathplannerlib)
+    -  PathplannerLib --> https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib2024.json
