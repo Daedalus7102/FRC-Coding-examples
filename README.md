@@ -1,6 +1,6 @@
 Links to install libraries online:
 -  Phoenix (CTRE webSite --> https://v6.docs.ctr-electronics.com/en/latest/docs/installation/installation-frc.html):
-    -  Phoenix 6 --> https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json
+    -  Phoenix 6 --> https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json
     -  Phoenix 5 --> https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2024-latest.json
      
     
